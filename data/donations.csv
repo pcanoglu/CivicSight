@@ -1,0 +1,6 @@
+donor_id,donation_amount,last_donation_days,donation_frequency,will_donate_again
+1,100,30,5,1
+2,20,200,1,0
+3,250,10,8,1
+4,50,90,3,0
+5,300,5,10,1
