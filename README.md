@@ -13,3 +13,12 @@ CivicSight provides:
 
 ## Vision
 To build scalable analytics tools that improve nonprofit efficiency across the United States.
+
+## Dashboard
+
+CivicSight includes a simple nonprofit donor dashboard that helps organizations view donation trends, donor retention risk, and recommended outreach priorities.
+
+To run the dashboard locally:
+
+```bash
+streamlit run dashboard/app.py
